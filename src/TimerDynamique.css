@@ -1,0 +1,15 @@
+.container{
+  background-color: lightslategray;
+  width: 20%;
+  margin-top: 100px;
+  border-radius: 20px;
+}
+
+.btn-start-pause{
+    margin: 5px;
+}
+.col{
+    color:white;
+    font-size:20px;
+}
+
